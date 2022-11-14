@@ -1,3 +1,3 @@
 # Fakturowanie
 
-# Invoicing application
+Invoicing application
